@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-deploy-dropdown/static/css/main.63cdd050.css",
+    "main.js": "/react-deploy-dropdown/static/js/main.7fc496f2.js",
+    "index.html": "/react-deploy-dropdown/index.html",
+    "main.63cdd050.css.map": "/react-deploy-dropdown/static/css/main.63cdd050.css.map",
+    "main.7fc496f2.js.map": "/react-deploy-dropdown/static/js/main.7fc496f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63cdd050.css",
+    "static/js/main.7fc496f2.js"
+  ]
+}
